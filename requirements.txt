@@ -2,3 +2,4 @@ streamlit
 requests
 xmltodict
 pandas
+streamlit-aggrid
